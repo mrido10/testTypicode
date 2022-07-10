@@ -1,0 +1,13 @@
+{
+  "getUser": {
+    "header": {
+        "statusCode": 200,
+        "message": "Success get user by uuid: 1dd0976a-97c5-4aa1-9bf9-0a9a60e188d7",
+        "status": true
+    },
+    "payload": {
+        "username": "IrCDKTJn9cE8+9JLmWxGQg==",
+        "password": "h+8qj9f5obU8kKd5FvYp3g=="
+    }
+  }
+}
